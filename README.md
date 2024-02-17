@@ -1,0 +1,2 @@
+# SDPproject
+Astrology Prediction System
